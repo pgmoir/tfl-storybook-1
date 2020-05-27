@@ -16,11 +16,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 9010 -c .storybook",
+    "start": "start-storybook -p 9010 -c .storybook",
     "build-storybook": "build-storybook -c .storybook -o build"
   },
   "eslintConfig": {
